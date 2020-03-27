@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: MicroOrganismoTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.13 s <<< FAILURE! - in MicroOrganismoTest
+MicroOrganismoTest.TestIrALugares(String)[2]  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at MicroOrganismoTest.TestIrALugares(MicroOrganismosTest.java:24)
+
+MicroOrganismoTest.TestIrALugares(String)[4]  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at MicroOrganismoTest.TestIrALugares(MicroOrganismosTest.java:24)
+
